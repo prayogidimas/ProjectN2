@@ -1,1 +1,1 @@
-projectn2.github.io
+projectn2
